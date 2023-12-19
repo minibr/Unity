@@ -1,4 +1,4 @@
 # Unity
-create with unity ch1 ~ 6 
+create with unity ch1 ~ 
 Challenge Problems
 
